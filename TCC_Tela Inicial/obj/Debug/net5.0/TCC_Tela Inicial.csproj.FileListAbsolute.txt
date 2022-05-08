@@ -1,0 +1,40 @@
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\appsettings.Development.json
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\appsettings.json
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.exe
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.deps.json
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.runtimeconfig.json
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.runtimeconfig.dev.json
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.dll
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\ref\TCC_Tela Inicial.dll
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.pdb
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.Views.dll
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.Views.pdb
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.csproj.AssemblyReference.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.AssemblyInfoInputs.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.AssemblyInfo.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.csproj.CoreCompileInputs.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.MvcApplicationPartsAssemblyInfo.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.RazorAssemblyInfo.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.RazorAssemblyInfo.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\staticwebassets\TCC_Tela Inicial.StaticWebAssets.Manifest.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\staticwebassets\TCC_Tela Inicial.StaticWebAssets.xml
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\scopedcss\bundle\TCC_Tela Inicial.styles.css
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.TagHelpers.input.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.TagHelpers.output.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.RazorCoreGenerate.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.RazorTargetAssemblyInfo.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.RazorTargetAssemblyInfo.cs
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.Views.pdb
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.dll
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\ref\TCC_Tela Inicial.dll
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.pdb
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.genruntimeconfig.cache
+D:\ETEC Desenvolvimento de Sistemas\3º Módulo\PTCC II\Telas\TCC_Tela Inicial\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.csproj.CopyComplete
