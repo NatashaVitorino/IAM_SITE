@@ -18,19 +18,20 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        @*<li class="nav-item">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-            </li>*@
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="reservaMesas">Reserva de mesas</a>
-                        </li>
-                    </ul>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">                 
+
+                    <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle font-weight-normal" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Reserva de Mesas
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" href="#">Já possuo reserva</a>
+                            <a class="dropdown-item" href="#">Quero reservar</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </nav>
-
     </header>
 
     @*rota que me leva pra tela*@
@@ -40,10 +41,17 @@
         </main>
     </div>
 
+    @*//div faça seu pedido online*@
+    <div class="card text-center font-weight-light text-center">
+        <div class="card-body align-content-end">
+            Faça seu pedido online!
+        </div>
+    </div>
+
     @*final da página*@
-    <footer class="border-top footer text-muted" >
+    <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2022 - IAM - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2022 - IAM - <a asp-area="" asp-controller="Home" asp-action="Privacy">Todos os direitos reservados.</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

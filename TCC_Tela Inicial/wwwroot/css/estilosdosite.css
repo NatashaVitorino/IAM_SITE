@@ -13,11 +13,27 @@ a {
     color: #0366d6;
 }
 
+.card {
+    background-color: #0F6839;
+    color: white;
+    font-size: 60px;
+    bottom: -693px;
+}
+
 .btn-primary {
     color: #fff;
     background-color: #1b6ec2;
     border-color: #1861ac;
 }
+
+.btn-secondary{
+    background-color: white;
+    border-color: white;
+    color: black;
+    font-size: 20px;
+}
+
+
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
@@ -65,7 +81,7 @@ body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
     background-color: black;
-    background-image: url(../img/BACKGROUND.png);
+    background-image: url(../img/BACKGROUND4.png);
     border-image-repeat: stretch;
     background-repeat: no-repeat;
     background-position: center;
@@ -78,5 +94,6 @@ body {
     bottom: 0;
     width: 100%;
     white-space: nowrap;
+    background-color:white;
     line-height: 60px; /* Vertically center the text there */
 }
