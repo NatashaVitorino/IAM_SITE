@@ -1,0 +1,107 @@
+﻿@page
+@model TCC_Tela_Inicial.Views.Home.confirmaDadosModel
+@{
+}
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="row">
+                <div class="col-md-12">
+                    <a type="submit" href="@Url.Action("Index", "Home")"><i class="bi bi-x"></i></a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <b><p class="msg-modal">Reserva realizada com sucesso!<br><br>Dentro de alguns instantes você receberá um e-mail com todas as informações da reserva.<br><br>Agradecemos a preferência.</p></b>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-md-10 fundo-formulario">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h5>Dados reserva</h5>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-10">
+                            <select class="form-control" type="text" aria-label="default input example">
+                                <option selected>Unidade: Rua Jacuna, 339 - Vila Guilherme, São Paulo - SP, 02068-010</option>
+                                <option>Rua Jacuna, 339 - Vila Guilherme, São Paulo - SP, 02068-010</option>
+                                <option>Rua Coronel Morais, 396 - Pari, São Paulo - SP, 03029-000</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-5">
+                            <input class="form-control" type="text" placeholder="Data: 18/06/2022" aria-label="default input example">
+                        </div>
+                        <div class="col-md-5">
+                            <select class="form-control" type="text" placeholder="Hora" aria-label="default input example">
+                                <option selected>11:00</option>
+                                <option>11:00</option>
+                                <option>12:00</option>
+                                <option>13:00</option>
+                                <option>14:00</option>
+                                <option>15:00</option>
+                                <option>16:00</option>
+                                <option>17:00</option>
+                                <option>18:00</option>
+                                <option>19:00</option>
+                                <option>20:00</option>
+                                <option>21:00</option>
+                                <option>22:00</option>
+                                <option>23:00</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-10">
+                            <input class="form-control" type="text" placeholder="Pessoas: 4" aria-label="default input example" min="1" max="30">
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-10">
+                            <textarea class="form-control" placeholder="Informações adicionais: Preferência pela mesa do centro." rows="3"></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h5>Dados pessoais</h5>
+                        </div>
+                    </div>
+                    <div class="divisoria">
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <input class="form-control" type="text" placeholder="Nome completo: Ana Espejo" aria-label="default input example">
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <input class="form-control" type="email" placeholder="E-mail: ana@gmail.com" aria-label="default input example">
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <input class="form-control" type="text" placeholder="Telefone: (11)9 7169-7955" aria-label="default input example">
+                            </div>
+                        </div>
+                        <div class="row justify-content-center mt-4">
+                            <div class="col-md-10">
+                                <a type="submit" class="btn-concluir" data-toggle="modal" data-target="#exampleModal" href="@Url.Action("confirmaDados", "Home")">Concluir ></a>
+                                <a type="submit" id="btn-limpar" href="@Url.Action("formulario", "Home")">Cancelar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

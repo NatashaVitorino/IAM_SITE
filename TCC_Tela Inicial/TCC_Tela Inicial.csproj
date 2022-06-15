@@ -6,6 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\img\acm.png" />
+    <Content Remove="wwwroot\img\rostos.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="bootstrap" Version="5.1.3" />
   </ItemGroup>
 

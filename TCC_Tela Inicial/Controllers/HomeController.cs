@@ -22,8 +22,31 @@ namespace TCC_Tela_Inicial.Controllers
         {
             return View();
         }
-
-        public IActionResult Privacy()
+        public IActionResult formulario()
+        {
+            return View();
+        }
+        public IActionResult confirmaDados()
+        {
+            return View();
+        }
+        public IActionResult localizar()
+        {
+            return View();
+        }
+        public IActionResult dadosReserva()
+        {
+            return View();
+        }
+        public IActionResult reservaCancelar()
+        {
+            return View();
+        }
+        public IActionResult editaDados()
+        {
+            return View();
+        }
+        public IActionResult reservaEditar()
         {
             return View();
         }

@@ -1,0 +1,93 @@
+﻿@page
+@model TCC_Tela_Inicial.Views.Quero_reservar.formularioModel
+@{
+    ViewBag.Title = "Formulário";
+}
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-md-10 fundo-formulario">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h5>Dados reserva</h5>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-10">
+                            <select class="form-control" type="text" aria-label="default input example">
+                                <option selected>Unidade</option>
+                                <option>Rua Jacuna, 339 - Vila Guilherme, São Paulo - SP, 02068-010</option>
+                                <option>Rua Coronel Morais, 396 - Pari, São Paulo - SP, 03029-000</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-5">
+                            <input class="form-control" type="date" placeholder="Data" aria-label="default input example">
+                        </div>
+                        <div class="col-md-5">
+                            <select class="form-control" type="text" placeholder="Hora" aria-label="default input example">
+                                <option selected>Hora</option>
+                                <option>11:00</option>
+                                <option>12:00</option>
+                                <option>13:00</option>
+                                <option>14:00</option>
+                                <option>15:00</option>
+                                <option>16:00</option>
+                                <option>17:00</option>
+                                <option>18:00</option>
+                                <option>19:00</option>
+                                <option>20:00</option>
+                                <option>21:00</option>
+                                <option>22:00</option>
+                                <option>23:00</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-10">
+                            <input class="form-control" type="number" placeholder="Pessoas" aria-label="default input example" min="1" max="30">
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-10">
+                            <textarea class="form-control" placeholder="Informações adicionais" rows="3"></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h5>Dados pessoais</h5>
+                        </div>
+                    </div>
+                    <div class="divisoria">
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <input class="form-control" type="text" placeholder="Nome completo" aria-label="default input example">
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <input class="form-control" type="email" placeholder="E-mail" aria-label="default input example">
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <input class="form-control" type="text" placeholder="Telefone" aria-label="default input example">
+                            </div>
+                        </div>
+                        <div class="row justify-content-center mt-4">
+                            <div class="col-md-10">
+                                <a type="submit" class="btn-continuar" href="@Url.Action("confirmaDados", "Home")">Continuar ></a>
+                                <a type="submit" id="btn-limpar" href="@Url.Action("Index", "Home")">Limpar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

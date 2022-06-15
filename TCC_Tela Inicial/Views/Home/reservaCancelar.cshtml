@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="row">
+                <div class="col-md-12">
+                    <a type="submit" href="@Url.Action("Index", "Home")"><i class="bi bi-x"></i></a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <b><p class="msg-modal">Reserva cancelada com sucesso!<br><br>Dentro de alguns instantes você receberá um e-mail com todas as informações da reserva.<br><br>Agradecemos a preferência.</p></b>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row justify-content-center modal-dialog-centered">
+        <div class="col-md-4 bg-white" id="card-localizar">
+            <div class="col-md-12">
+                <p><b>Tem certeza que deseja cancelar a reserva?</b></p>
+            </div>
+            <div class="row justify-content-center mt-4">
+                <div class="col-md-12">
+                    <a type="submit" id="btn-sim" data-toggle="modal" data-target="#exampleModal" href="@Url.Action("confirmaDados", "Home" )">Sim</a>
+                    <a type="submit" id="btn-nao" href="@Url.Action("Index", "Home" )">Não</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
